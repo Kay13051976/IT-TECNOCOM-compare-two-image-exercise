@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../compareTwoImgNamo/compareTwoImg"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5509,
+    "liveServer.settings.multiRootWorkspaceName": "compareTwoImg"
+  }
+}
